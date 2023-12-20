@@ -22,7 +22,7 @@
 </a>
 </div>
 
-# Challenge #01 - Node - API Classroom
+# Node - API Classroom
 
 ## Description
 This api serves to a platform which is focused on mentorship through synchronous online classes. The mentors being specialized in a subject, only being able to minister this subject, and the mentoree can enroll in as many as possible classes. This approach offers specialized knowledge, flexibility of choice, and interactivity, fostering dynamic and collaborative virtual classrooms. Features like class recordings, assessments, and personalized feedback ensure an enriching learning experience
