@@ -6,7 +6,7 @@
 | Adriano Dias Alves da Silva    |   adriano.silva.pb@compasso.com.br      |
 | Gustavo Reis Souza Lima        |   gustavo.lima.pb@compasso.com.br       |
 | Leticia Machado Lopes          |   leticia.lopes.pb@compasso.com.br      |
-| Lucas Scommegna                |   lucas.scommegna.pb@compasso.com.br    |
+| Lucas Scommegna                |   scommegnal@hotmail.com    |
 | Vinicius Augusto Sakamoto      |   vinicius.sakamoto.pb@compasso.com.br  |
 
   
