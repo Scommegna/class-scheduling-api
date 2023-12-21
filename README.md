@@ -1,4 +1,12 @@
 <div align="center">
+<a href="/">
+  <img src="https://stc.uol.com/g/sobreuol/images/footer/compass-logo.svg?v=3.9.44" alt="compassuol" width="200">
+</a>
+</div>
+
+---------------------------------------------------------------------
+
+<div align="center">
 
   
 | Nome     |      Email    |
@@ -14,13 +22,6 @@
 
 
 ---------------------------------------------------------------------
-
-
-<div align="center">
-<a href="/">
-  <img src="https://stc.uol.com/g/sobreuol/images/footer/compass-logo.svg?v=3.9.44" alt="compassuol" width="200">
-</a>
-</div>
 
 # Node - API Classroom
 
